@@ -1,0 +1,65 @@
+"No contexto da Aegea, o que significa o conceito de 'inovação'?","Aumentar a eficiência operacional, reduzir perdas e ampliar o acesso ao serviço."
+Cite quatro tecnologias que estão transformando o setor de saneamento segundo Eduardo Mendes.,"Inteligência Artificial, sensores inteligentes, monitoramento em tempo real e análise de dados."
+Qual é a função do monitoramento por satélite (Asterra) no combate às perdas de água?,"Localizar vazamentos subterrâneos não visíveis, inclusive abaixo do asfalto, com precisão superior a $85\%$."
+Como a Inteligência Artificial é aplicada especificamente no tratamento de água?,Algoritmos analisam variáveis como turbidez e pH para prever a dosagem exata de produtos químicos.
+O que são 'perdas reais' em um sistema de abastecimento de água?,Volumes de água que vazam fisicamente das tubulações antes de chegar ao consumidor.
+O que caracteriza as 'perdas aparentes' no saneamento?,"Volumes de água consumidos mas não faturados devido a fraudes, erros de medição ou falhas de cadastro."
+Qual é a meta de universalização estabelecida pelo Novo Marco Legal do Saneamento para o atendimento de água tratada?,Atendimento de $99\%$ da população brasileira até o ano de 2033.
+"Pelo Novo Marco Legal do Saneamento, qual é a porcentagem da população que deve ter acesso à coleta e tratamento de esgoto até 2033?",O objetivo é que $90\%$ da população brasileira tenha acesso a esses serviços.
+O que é o 'AegeaHub'?,"Um hub de inovação voltado à conexão entre colaboradores, universidades, startups e centros de pesquisa."
+Qual ferramenta tecnológica a Sabesp utiliza para simular cenários de mudanças climáticas em mananciais?,Plataformas de Inteligência Artificial que cruzam bases históricas de 70 anos com previsões meteorológicas globais.
+"No setor de saneamento, o que é um 'Gêmeo Digital' (Digital Twin)?",Um modelo virtual onde a entrada simula a saída real do sistema para identificar anomalias e calibrar operações.
+O uso de sensores de pressão em tempo real permite identificar o quê?,Vazamentos antes que gerem grandes impactos e oscilações críticas na rede de distribuição.
+Qual é a função do cão-robô utilizado em inspeções técnicas de saneamento?,"Auxiliar na identificação de fissuras em tubulações e galerias, especialmente em locais de risco com gases tóxicos."
+"No combate ao desperdício, o que indica um aumento de $30\%$ no consumo habitual de um cliente?",Um alerta automático de possível vazamento interno no imóvel.
+Termo: Manutenção Preditiva,"Uso de dados históricos e IA para prever quando equipamentos precisarão de reparo, evitando falhas inesperadas."
+Qual é a média nacional de perdas na distribuição de água no Brasil segundo dados citados de 2026?,A média nacional de desperdício gira em torno de $40\%$.
+O que são 'DMCs' (Distritos de Medição e Controle)?,Setores da rede de distribuição criados para monitorar e gerenciar pressões e vazões de forma isolada.
+De que forma o controle de pressão reduz as perdas reais?,Ao evitar pressões excessivas que forçam vazamentos em furos ou pontos frágeis da tubulação.
+"Na Inteligência Artificial, o que representam as 'Redes Neurais Artificiais'?",Algoritmos matemáticos que buscam simular o funcionamento das sinapses de neurônios biológicos.
+O que é o 'Machine Learning' dentro do campo da IA?,Um subgrupo da IA focado no aprendizado de máquinas a partir de grandes volumes de dados.
+Diferencie 'Aprendizado Supervisionado' de 'Não Supervisionado'.,"O supervisionado utiliza dados rotulados (com rótulos definidos), enquanto o não supervisionado busca padrões em dados desconhecidos."
+O que é o 'Aprendizado por Reforço'?,"Um modelo de aprendizado baseado em estímulos, onde o algoritmo é recompensado por atitudes corretas."
+"No processamento de dados para IA, para que serve a 'Normalização'?","Para ajustar diferentes escalas de sensores para uma faixa comum, evitando distorções no modelo."
+O que acontece se um modelo de IA for treinado com dados 'enviesados'?,O algoritmo tenderá a dar respostas incorretas ou tendenciosas para o grupo que possuía mais dados na base.
+Defina o conceito de 'Lógica Fuzzy' aplicada ao controle de bombas.,Um sistema de controle baseado em regras de especialistas que utiliza termos linguísticos como 'baixo' ou 'alto'.
+O que são 'Soft Sensors' (Sensores Virtuais)?,Algoritmos que estimam grandezas físicas (como vazão) utilizando medições de outras variáveis (como pressão).
+Qual é a principal vantagem do 'TinyML' (IA em microchips)?,"Permitir que o processamento e a detecção de anomalias ocorram no próprio sensor, reduzindo o tráfego de dados."
+Por que a 'setorização' é considerada uma boa prática no saneamento?,Ela facilita a localização de vazamentos e o controle das pressões mínimas e máximas exigidas por norma.
+Qual é a pressão mínima estipulada pela norma brasileira para redes de abastecimento?,"A pressão mínima deve ser de aproximadamente $10,21$ mca (metros de coluna de água)."
+Qual é o 'combustível' fundamental para que algoritmos de IA funcionem no saneamento?,A disponibilidade de dados de qualidade coletados via sensores e automação.
+O que é o 'vazamento invisível' e por que ele é perigoso?,"É aquele que não aflora à superfície, sendo detectado apenas por tecnologia ou quando a conta de água sobe drasticamente."
+"No saneamento, como a IA ajuda a identificar fraudadores?","Através da clusterização de perfis de consumo, identificando padrões que fogem da normalidade histórica."
+Como a automação de canais digitais (como WhatsApp e Apps) impacta a experiência do cliente?,"Oferece transparência e agilidade, permitindo resolver solicitações e acompanhar consumos sem atendimento humano."
+"Segundo a startup T&D Sustentável, qual é a economia média de água gerada por IA em clientes B2B?",A economia média gira em torno de $30\%$.
+O que é o 'Ladrão' de uma cisterna e como ele pode mascarar um vazamento?,"É um cano para escoar excessos; se a boia quebrar, a água vai direto para o esgoto sem transbordar, escondendo o desperdício."
+A tecnologia de sensores 'Dataloggers' serve para monitorar qual variável crítica?,A pressão nas redes de distribuição em diferentes horários do dia.
+Por que o controle de rotação via inversor de frequência é eficiente no bombeamento?,"Porque permite ajustar a pressão da água à demanda real, economizando energia elétrica."
+"No tratamento de dados, o que é a 'Limpeza de Dados'?","O processo de remover valores duplicados, faltantes ou incorretos da base de dados antes do treinamento da IA."
+Qual é a importância da 'Governança de Dados' para as empresas de saneamento?,"Garante que os dados de diferentes unidades sejam padronizados, confiáveis e acessíveis para análise estratégica."
+O que é a 'Transformada de Fourier' no contexto de detecção de vazamentos acústicos?,Uma técnica matemática que analisa o ruído do vazamento no domínio da frequência em vez do tempo.
+Como a IA contribui para a resiliência operacional frente a eventos climáticos extremos?,"Ao prever o impacto das chuvas no volume dos reservatórios, permitindo alertas antecipados e gestão de riscos."
+O que define a precisão de um modelo de IA no saneamento?,A qualidade dos dados de entrada e a correta calibração dos hiperparâmetros do algoritmo.
+"Na Aegea, como as 'redes elevadas' em Manaus e Belém exemplificam inovação inclusiva?",São soluções de engenharia adaptadas para levar saneamento a áreas de palafitas onde modelos tradicionais falham.
+Qual é o principal gasto operacional (OPEX) em sistemas de bombeamento de água?,"O consumo de energia elétrica pelos conjuntos motobomba, que pode chegar a $90\%$ do custo do sistema."
+Por que a digitalização ajuda a fortalecer a confiança do consumidor no serviço de saneamento?,"Pois amplia a transparência sobre investimentos, qualidade da água e manutenções programadas."
+Cite uma vantagem do monitoramento contínuo sobre as leituras mensais tradicionais.,"A capacidade de detectar vazamentos e fraudes em tempo real, sem esperar $30$ dias pela próxima fatura."
+O que é 'Hidrometria Inteligente'?,"O uso de hidrômetros que transmitem dados de consumo via rádio ou internet, eliminando a necessidade de leitura manual."
+Como a IA pode auxiliar na gestão de efluentes (esgoto)?,Monitorando a rede para identificar obstruções ou infiltrações de águas pluviais indevidas.
+Qual o impacto de um furo de $2$ mm em uma tubulação de água ao longo de um mês?,Pode resultar na perda de até $96.000$ litros de água tratada.
+A técnica de 'Calibração de Modelos' no software EPANET via IA serve para quê?,Ajustar o modelo hidráulico teórico para que ele reflita fielmente as pressões e vazões medidas em campo.
+O que é a 'Manutenção Corretiva' comparada à 'Preditiva'?,"A corretiva ocorre após a quebra do equipamento, gerando interrupção do serviço e custos mais elevados."
+"No saneamento, o que é 'Eficiência Hídrica'?",A capacidade de entregar água com o menor desperdício possível em todas as etapas da cadeia.
+Como sensores de nível em reservatórios auxiliam a IA na predição de consumo?,"Ao registrar a velocidade de esvaziamento do tanque, permitindo prever picos de demanda da população."
+O que é 'IoT' (Internet das Coisas) no saneamento?,A rede de sensores e equipamentos conectados que coletam e trocam dados automaticamente.
+Qual o papel do 'especialista do processo' no desenvolvimento de uma IA de saneamento?,Selecionar as variáveis de entrada mais relevantes e validar se as respostas do modelo fazem sentido físico.
+Por que a redução de perdas de água é considerada uma estratégia ESG?,"Pois preserva recursos hídricos (Ambiental), amplia o acesso (Social) e melhora a saúde financeira (Governança)."
+"Na Sabesp, qual sistema foi o primeiro a receber o monitoramento por IA para mudanças climáticas?","O Sistema Cantareira, responsável por abastecer $8,5$ milhões de pessoas."
+O que é a 'função de ativação' em um neurônio artificial?,Um limite matemático que determina se o sinal de entrada é forte o suficiente para gerar uma saída.
+Qual a diferença entre o Machine Learning e o Deep Learning?,"O Deep Learning utiliza arquiteturas de redes neurais muito mais profundas e complexas, com múltiplas camadas."
+Por que o setor de saneamento é considerado de 'baixa visibilidade' quando funciona bem?,Porque a população só percebe o serviço quando há falta de água ou problemas aparentes na rede.
+Cite um benefício do uso de IA para prever a manutenção de bombas centrífugas.,Redução do tempo de inatividade e prolongamento da vida útil dos ativos da companhia.
+O que caracteriza a 'infraestrutura resiliente' no saneamento digital?,Sistemas capazes de se adaptar e continuar operando diante de falhas ou eventos climáticos severos.
+O que é o 'Georreferenciamento' no combate a perdas?,A associação de dados de vazamentos a coordenadas geográficas precisas para orientar equipes de campo.
+Como a IA auxilia na análise de 'faturas' pela startup T&D Sustentável?,Algoritmos identificam inconsistências tarifárias e oportunidades de redução de custos antes da análise técnica.
+Por que a IA é fundamental para atingir as metas do Marco Legal do Saneamento?,Pela necessidade de ganhos de eficiência em escala e rapidez que a gestão manual não consegue prover.

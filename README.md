@@ -11,7 +11,7 @@ O acesso ao saneamento básico impacta diretamente a saúde pública, a preserva
 - **Desenvolver Modelos:** Construir e treinar algoritmos focados na eficiência hídrica e na redução de perdas comerciais e físicas.
 - **Analisar Viabilidade:** Avaliar o impacto técnico e socioeconômico da implementação de sensores e modelos preditivos em redes de distribuição de água.
 
-- **Engenharia de Prompts e "Cicatrizes": perguntas estratégicas **
+**Engenharia de Prompts e "Cicatrizes": perguntas estratégicas **
 
 **Pergunta : Hidrometria Inteligente: IA no Combate a Fraudes e Perdas.**
 
